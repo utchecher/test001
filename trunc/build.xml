@@ -97,7 +97,7 @@
         </javadoc>
     </target>
 
-    <!-- Clean up build system results -->
+    <!-- Clean up build system results  .. -->
     <target name="clean" description="Clean up build system results">
         <delete dir="${build.dir}"/>
     </target>
